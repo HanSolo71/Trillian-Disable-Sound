@@ -1,2 +1,2 @@
 # Trillian-Disable-Sound
-Two scripts to disable Trillian sound one for local machines and one for view profiles
+Modifies XML document used for sound settings in Trillian. Will take affect next time Trillian is started.
